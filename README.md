@@ -34,3 +34,7 @@ Achieved a slightly higher accuracy of 83.33%.
 Demonstrated robustness in identifying benign cases but required improvements in detecting malignant cases.
 ### Conclusion:
 The comparative study demonstrates that both the custom CNN and the VGG16 model are effective in diagnosing skin cancer, with the VGG16 model showing a slight edge in accuracy. The study highlights the potential of deep learning models to revolutionize dermatological diagnostics, offering faster and more accurate alternatives to traditional methods. Future work will focus on enhancing model generalizability and stability through advanced regularization and data augmentation techniques.
+
+### Keywords:
+Skin cancer diagnosis, Deep learning, Convolutional Neural Networks (CNNs), VGG16 network, Medical imaging.
+
